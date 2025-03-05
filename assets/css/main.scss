@@ -5,8 +5,19 @@
 @import "../../node_modules/bootstrap/scss/functions";
 
 // 2. Include any default variable overrides here
+//Keith Arcedes, custom color scheme
+$primary: #3674b5;
+$secondary: #578fca;
+$success: #0d9276;
+$info: #a1e3f9;
+$warning: #fff574;
+$danger: #f95454;
+$light: #fff2f2;
+$dark: #2d336b;
+$body-bg: #fbfbfb;
+$body-color: #143d60;
 
-// Renato Bingua Jr. I added new Font Style
+// Renato Bingua Jr. I added new FontA1E3F9;
 $font-family-sans-serif: "Poppins", sans-serif;
 $font-family-monospace: "Courier New", monospace;
 $headings-font-weight: 400;
